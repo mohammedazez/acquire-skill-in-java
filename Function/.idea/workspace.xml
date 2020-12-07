@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2c2083f-6cf8-44e2-ab0a-5061a81f0ca6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/function/CallFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/function/ReturnFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Obyek/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Obyek/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/function/InputFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/function/MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +52,35 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ReturnFunction">
+  <component name="RunManager" selected="Application.MethodOverloading">
     <configuration name="CallFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.function.CallFunction" />
+      <module name="Function" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.function.InputFunction" />
+      <module name="Function" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.function.MethodOverloading" />
       <module name="Function" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodOverloading" />
+        <item itemvalue="Application.InputFunction" />
         <item itemvalue="Application.ReturnFunction" />
         <item itemvalue="Application.CallFunction" />
       </list>
@@ -117,21 +142,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1545" height="207" key="GridCell.Tab.0.bottom" timestamp="1607312762835">
+    <state width="1545" height="207" key="GridCell.Tab.0.bottom" timestamp="1607313225753">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1545" height="207" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607312762835" />
-    <state width="1545" height="207" key="GridCell.Tab.0.center" timestamp="1607312762835">
+    <state width="1545" height="207" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607313225753" />
+    <state width="1545" height="207" key="GridCell.Tab.0.center" timestamp="1607313225752">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1545" height="207" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1607312762835" />
-    <state width="1545" height="207" key="GridCell.Tab.0.left" timestamp="1607312762835">
+    <state width="1545" height="207" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1607313225752" />
+    <state width="1545" height="207" key="GridCell.Tab.0.left" timestamp="1607313225752">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1545" height="207" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1607312762835" />
-    <state width="1545" height="207" key="GridCell.Tab.0.right" timestamp="1607312762835">
+    <state width="1545" height="207" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1607313225752" />
+    <state width="1545" height="207" key="GridCell.Tab.0.right" timestamp="1607313225752">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1545" height="207" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1607312762835" />
+    <state width="1545" height="207" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1607313225752" />
   </component>
 </project>
