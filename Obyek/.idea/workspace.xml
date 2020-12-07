@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f853af17-6331-4995-b5b8-9563adf7bb42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/obyek/Hewan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/obyek/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dicoding/javafundamental/obyek/Hewan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicoding/javafundamental/obyek/Hewan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,5 +97,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="100" key="Vcs.Push.Dialog.v2" timestamp="1607305691868">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="297" y="100" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607305691868" />
   </component>
 </project>
