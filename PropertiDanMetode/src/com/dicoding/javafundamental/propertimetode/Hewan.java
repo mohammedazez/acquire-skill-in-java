@@ -27,4 +27,16 @@ class Hewan {
     void makan(){
         System.out.println("Makan dengan menggunakan mulut.....");
     }
+
+    double getBerat(){
+        return berat;
+    }
+
+    double getTinggi(){
+        return tinggi;
+    }
+
+    double getUmur(){
+        return umur;
+    }
 }
