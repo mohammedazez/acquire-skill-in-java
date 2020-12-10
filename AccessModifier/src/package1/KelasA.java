@@ -1,4 +1,4 @@
-package com.dicoding.javafundamental.accessmodifier;
+package package1;
 
 public class KelasA {
     private int memberA = 5;
